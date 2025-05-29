@@ -63,7 +63,6 @@ This script automates the process of redeploying the Jamf management framework t
 
 **Jamf Pro Server Settings:**
 - ✅ **Check-In** (Read)
-- ✅ **Computer Check-in Setting** (Read)
 
 5. Click **Save**
 
